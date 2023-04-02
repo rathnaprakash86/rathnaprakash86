@@ -71,7 +71,7 @@
             <ul> 
                 <li>SOAP</li>
                 <li>REST</li>
-                <li>JWT/li>
+                <li>JWT</li>
                 <li>GraphQL</li>
                 <li>OAUTH 2.0</li>
             </ul>
@@ -104,4 +104,9 @@
 <p align="left"> <a href="https://twitter.com/p_rathnaprakash" target="blank"><img src="https://img.shields.io/twitter/follow/p_rathnaprakash?logo=twitter&style=for-the-badge" alt="p_rathnaprakash" /></a> </p>
 <br>
 
-
+<h2 align="left">Education: </h2>
+          <ul>
+              <li>Master Of Science In Information Systems</li>
+               li>Bachelor Of Engineering In Electronics & Communication Engineering</li>
+               <li> Oracle Certified Professional Java Programmer </li>
+          </ul>
