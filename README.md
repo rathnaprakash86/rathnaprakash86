@@ -107,6 +107,6 @@
 <h2 align="left">Education: </h2>
           <ul>
               <li>Master Of Science In Information Systems</li>
-               li>Bachelor Of Engineering In Electronics & Communication Engineering</li>
+               <li>Bachelor Of Engineering In Electronics & Communication Engineering</li>
                <li> Oracle Certified Professional Java Programmer </li>
           </ul>
