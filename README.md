@@ -100,13 +100,8 @@
     </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathnaprakash86&label=Profile%20views&color=0e75b6&style=flat" alt="rathnaprakash86" /> </p>
- <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathnaprakash86" alt="rathnaprakash86" /></a>
- </p>
- <br/>
+
 <p align="left"> <a href="https://twitter.com/p_rathnaprakash" target="blank"><img src="https://img.shields.io/twitter/follow/p_rathnaprakash?logo=twitter&style=for-the-badge" alt="p_rathnaprakash" /></a> </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathnaprakash86&show_icons=true&locale=en&layout=compact" alt="rathnaprakash86" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathnaprakash86&show_icons=true&locale=en" alt="rathnaprakash86" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathnaprakash86&" alt="rathnaprakash86" /></p>
+
+
