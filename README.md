@@ -1,14 +1,12 @@
-<h1 align="center">Rathna Prakash</h1><!--
-<h4>
-• Highly skilled software professional around 13 years of experience from various countries. • Hunger to learn and keep up-date with emerging trends. • Expertise in design, develop and deliver in green filed projects & existing projects. • Team player with excellent interpersonal skills, self-motivated, agile, and good communication and listening skills, self-starter.</h4>-->
+<h1 align="center">Rathna Prakash</h1>
 <h3 align="left">About me:</h3>
 <p align="left">
     <ul>
-        <li>Highly skilled software professional around 13+ years of experience from various countries </li>
+        <li>Highly skilled software professional around 14+ years of experience from various countries </li>
         <li>Hunger to learn and keep up-date with emerging trends</li>
-        <li>Expertise in design, develop and deliver in green filed projects & existing projects</li>
+        <li>Expertise in design, development, and deliver in green filed projects & existing projects</li>
         <li>Team player with excellent interpersonal skills, self-motivated, agile, and good communication and listening skills, self-starter</li>
-        <li>Expertise in design, develop and deliver in greenfield projects & existing projects.</li>
+        <li>Expertise in design, development, and delivery of greenfield projects & existing projects.</li>
     </ul>
 </p>
 
